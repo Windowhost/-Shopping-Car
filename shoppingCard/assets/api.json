@@ -1,0 +1,63 @@
+
+[
+    {
+        "price": 500,
+        "id": 1,
+        "title": "Cafe",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 300,
+        "id": 2,
+        "title": "´Pizza",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 100,
+        "id": 3,
+        "title": "Agua",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 50,
+        "id": 4,
+        "title": "Sandias",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 200,
+        "id": 5,
+        "title": "Mangos",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 100,
+        "id": 6,
+        "title": "Bananas",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 250,
+        "id": 7,
+        "title": "Tee",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 100,
+        "id": 8,
+        "title": "Milk",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 50,
+        "id": 9,
+        "title": "Cola",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "price": 400,
+        "id": 10,
+        "title": "Peach",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    }
+]
